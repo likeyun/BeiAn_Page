@@ -9,4 +9,4 @@
 
 # 预览
 
-<img src="https://github.com/likeyun/BeiAn_Page/blob/main/ba_img/20220728153046.png" />
+<img src="https://sc01.alicdn.com/kf/H583d33d0bd9a4ce08a0f3bc49a8dafa4F.png" />
