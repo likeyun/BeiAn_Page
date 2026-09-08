@@ -1,12 +1,22 @@
 # BeiAn_Page
-中国大陆服务器个人域名备案过审网页模板。
 
-# 使用说明
+一个纯静态个人技术博客模板，适合直接部署到 GitHub Pages。
 
-将index.html、p.php、ba_img目录上传到你服务器的根目录，访问index.html即可。一些信息自己修改，例如底部的备案号，如果你是首次备案，那么需要将index.html、p.php底部的备案号删除，如果你已经有其他网站备案了，需要将备案号替换为你的，还有就是网站标题，（TANKING - 创意开发者）请自行替换为你自己的标题。
+## 当前结构
 
-本网页需要将自己网站的备案类型提交为代码片段、代码笔记、开发者博客、代码日志、代码精选等类型的网站，一般都是百分百过审的，本人广东备案仅需7天完成。
+- `index.html`：博客首页与文章展示
+- `ba_img/`：博客文章配图
+- `.github/workflows/pages.yml`：GitHub Pages 自动部署
 
-# 预览
+## 在线访问
 
-<img src="https://sc01.alicdn.com/kf/H583d33d0bd9a4ce08a0f3bc49a8dafa4F.png" />
+https://likeyun.github.io/BeiAn_Page/
+
+## 特点
+
+- 纯 HTML / CSS / JavaScript
+- 无 PHP、无数据库、无第三方框架
+- 首页直接加载博客文章
+- 支持移动端响应式
+- 文章点击后可在当前页面阅读
+- 保留 ICP 备案信息
